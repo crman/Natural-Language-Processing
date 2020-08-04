@@ -4,3 +4,6 @@
 
 ## Basic Tasks
 - Illustrating some necessary tasks like Stemming, Lemmatization, Tokenization, TF-IDF, etc.
+
+## Projects
+- Different Natural Language Processing Projects
